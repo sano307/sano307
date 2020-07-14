@@ -1,4 +1,4 @@
-### Inseo kim 😄
+### About 😄
 
 Hello, I'm Inseo Kim.
 
