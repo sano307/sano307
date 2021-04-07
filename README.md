@@ -1,9 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sano307&color=yellow&style=plastic)
 
-### About 😄
+📬 How to reach me
 
-Hello, I'm Inseo Kim. Have a great day!
-
-### Resume :memo:
-
-https://www.notion.so/Resume-66daa4cfdf4f473c812d7a40725646e4
+- LinkedIn: [@inseokim](https://www.linkedin.com/in/inseokim/)
+- Twitter: [@sano307](https://twitter.com/sano3071)
+- Resume (Japanese): https://www.notion.so/66daa4cfdf4f473c812d7a40725646e4
